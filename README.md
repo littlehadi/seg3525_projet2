@@ -1,0 +1,2 @@
+# seg3525_projet2
+Ce deuxième projet a pour objectif de concevoir et réaliser un site web d’une entreprise tout en utilisant React JS. J'ai choisi l'entreprise de commerce de basketball qui permet de voir et naviguer tous les produits, les marchandises et les biens et services que l’entreprise offre dans le site web telles que les chaussures, les chandails et tout autre relier seulement au basketball. 
